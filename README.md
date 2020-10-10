@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm an atmospheric researcher. Write me an email if there is anything I can do for you. 
+
+[![Rubaiat](https://raw.githubusercontent.com/mrislam/mrislam/main/github-header.webp)](https://mrislam.net)
+
 
 <!--
 **mrislam/mrislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
